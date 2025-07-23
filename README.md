@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **Khaled.waleed.dev@gmail.com**
 
-- 📄 Know about my experiences [(https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link)*]((https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link)*)
+- 📄 Know about my experiences [[View my CV (PDF)](https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link)]([View my CV (PDF)](https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link))
 
 - ⚡ Fun fact **I’ve built 10+ mobile apps, but I still enjoy playing around with new animations and UI tricks in my free time.**
 
