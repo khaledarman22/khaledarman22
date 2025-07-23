@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Advanced Flutter animations, performance optimization, and modular app architecture.**
 
-- 📝 I regularly write articles on [Not currently writing — but I share tips on LinkedIn from time to time.](Not currently writing — but I share tips on LinkedIn from time to time.)
+- 📝 I regularly write articles on [Not currently writing — but I share tips on LinkedIn from time to time.]
 
 - 💬 Ask me about **Flutter, BLoC, Clean Architecture, Dio, Firebase, Hive, GitHub best practices.**
 
 - 📫 How to reach me **Khaled.waleed.dev@gmail.com**
 
-- 📄 Know about my experiences [[View my CV (PDF)](https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link)]([View my CV (PDF)](https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link))
+- 📄 Know about my experiences [[View my CV (PDF)](https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link)]
 
 - ⚡ Fun fact **I’ve built 10+ mobile apps, but I still enjoy playing around with new animations and UI tricks in my free time.**
 
