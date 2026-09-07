@@ -21,8 +21,8 @@
     </linearGradient>
 
     <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#14213d" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+      <stop offset="0%" stop-color="#14213d" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.95" />
     </linearGradient>
 
     <radialGradient id="glowLeft" cx="15%" cy="30%" r="50%">
@@ -47,7 +47,7 @@
 
   <style>
     .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 54px; letter-spacing: 1px; fill: url(#textGrad); }
-    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 20px; fill: #00D8FF; letter-spacing: 4px; text-transform: uppercase; }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 19px; fill: #00D8FF; letter-spacing: 3.5px; text-transform: uppercase; }
     .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; fill: #e2e8f0; }
     .quote { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-style: italic; font-size: 15px; fill: #94a3b8; }
   </style>
@@ -81,13 +81,13 @@
   <!-- Header Main Content -->
   <g transform="translate(260, 110)">
     <!-- Subtitle / Eyebrow -->
-    <text x="0" y="0" class="subtitle">Senior Flutter &amp; Mobile Engineer</text>
+    <text x="0" y="0" class="subtitle">Senior Flutter Engineer · Team Lead</text>
 
     <!-- Main Name Title -->
     <text x="0" y="52" class="title">Khaled Waleed</text>
 
     <!-- Quote / Tagline -->
-    <text x="0" y="88" class="quote">“Crafting high-performance, pixel-perfect &amp; scalable mobile experiences”</text>
+    <text x="0" y="88" class="quote">“Building high-performance, crash-free mobile architectures across iOS &amp; Android”</text>
   </g>
 
   <!-- Key Highlight Pills / Badges -->
@@ -96,7 +96,7 @@
     <g transform="translate(0, 0)">
       <rect width="225" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
       <circle cx="21" cy="21" r="7" fill="#00D8FF" />
-      <text x="38" y="26" class="badge-text">⚡ 4+ Years Experience</text>
+      <text x="38" y="26" class="badge-text">⚡ 5+ Years Experience</text>
     </g>
 
     <!-- Pill 2: Architecture -->
@@ -110,14 +110,14 @@
     <g transform="translate(540, 0)">
       <rect width="245" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
       <circle cx="21" cy="21" r="7" fill="#00D8FF" />
-      <text x="38" y="26" class="badge-text">📱 10+ Apps on App Stores</text>
+      <text x="38" y="26" class="badge-text">📱 15+ Apps on App Stores</text>
     </g>
 
-    <!-- Pill 4: UI/UX -->
+    <!-- Pill 4: UI/UX & Quality -->
     <g transform="translate(805, 0)">
       <rect width="215" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
       <circle cx="21" cy="21" r="7" fill="#00D8FF" />
-      <text x="38" y="26" class="badge-text">🚀 60/120 FPS Fluid UI</text>
+      <text x="38" y="26" class="badge-text">🚀 99%+ Crash-Free UX</text>
     </g>
   </g>
 

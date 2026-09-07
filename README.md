@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Khaled Waleed - Senior Flutter Developer" width="100%" />
+<img src="./assets/header.svg" alt="Khaled Waleed - Senior Flutter Engineer & Team Lead" width="100%" />
 
 <br/><br/>
 
 <a href="https://github.com/khaledarman22">
-  <img alt="Khaled Waleed Roles & Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=680&height=45&lines=Senior+Flutter+%26+Mobile+Developer+%F0%9F%92%99;Clean+Architecture+%26+BLoC+Expert;4%2B+Years+Crafting+High-Performance+Apps;Google+Play+%26+App+Store+Publisher;Pixel-Perfect+UI+%26+60%2F120+FPS+Animations;Building+Scalable+%26+Maintainable+Codebases" />
+  <img alt="Khaled Waleed Roles & Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=680&height=45&lines=Senior+Flutter+Engineer+%26+Team+Lead+%F0%9F%92%99;5%2B+Years+Building+Scalable+Mobile+Apps;15%2B+Production+Apps+on+App+Store+%26+Google+Play;Clean+Architecture+%26+BLoC%2FCubit+Expert;Pixel-Perfect+UI+%26+99%25%2B+Crash-Free+Rate;AI-Assisted+Engineering+%26+CI%2FCD+Pipelines" />
 </a>
 
 <p align="center">
@@ -15,9 +15,9 @@
   &nbsp;
   <a href="mailto:Khaled.waleed.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   &nbsp;
-  <a href="https://twitter.com/khaled_waleed_x"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://raw.githubusercontent.com/khaledarman22/khaledarman22/main/assets/Khaled_Waleed_Resume.pdf"><img alt="Download Resume / CV" src="https://img.shields.io/badge/Download%20CV-0175C2?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
   &nbsp;
-  <a href="https://drive.google.com/file/d/16QXPxZPolmnNtIR5nTEDS5wIFvv245we/view?usp=share_link"><img alt="Download Resume / CV" src="https://img.shields.io/badge/Resume%2FCV-0175C2?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="https://twitter.com/khaled_waleed_x"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   &nbsp;
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=khaledarman22&label=Profile%20Views&color=0175C2&style=for-the-badge" />
 </p>
@@ -31,42 +31,44 @@
 ## 👨‍💻 About Me
 
 ```dart
-class FlutterDeveloper {
+class FlutterLeadEngineer {
   final String name = 'Khaled Waleed';
-  final String role = 'Senior Flutter & Cross-Platform Developer';
-  final int experienceYears = 4;
-  final List<String> passions = [
-    'Clean Architecture & SOLID Principles',
-    'Pixel-Perfect & Fluid UI/UX Interactions',
-    'High Performance & Memory Optimization',
-    'Publishing & Scaling Store Apps'
+  final String currentRole = 'Flutter Team Lead & Senior Mobile Engineer';
+  final int experienceYears = 5;
+  final int publishedAppsCount = 15;
+  final double crashFreeRate = 99.4; // %
+
+  final List<String> coreCompetencies = [
+    'Clean Architecture, MVVM & SOLID Principles',
+    'Enterprise State Management (BLoC / Cubit / Provider)',
+    'Full RTL / Localization (Arabic, English, Italian)',
+    'CI/CD Pipelines (Fastlane, GitHub Actions) & Release Automation',
+    'AI-Assisted High-Velocity Engineering',
+    'Team Mentorship & Architecture Governance'
   ];
 
-  void buildImpactfulApps() {
-    while (true) {
-      writeCleanCode();
-      optimizePerformance();
-      deliverExceptionalUX();
-    }
+  void deliverExcellence() {
+    buildHighPerformanceApps();
+    maintainRockSolidStability();
+    mentorAndElevateTeam();
   }
 }
 ```
 
-- 📱 **Mobile App Engineer** specialized in building cross-platform (iOS & Android) apps with Flutter & Dart.
-- 🏛️ Strong advocate for **Clean Architecture**, **MVVM**, modular design, and robust State Management (**BLoC / Cubit**, **Riverpod**, **Provider**).
-- 🚀 Successfully launched **10+ mobile apps** on **Google Play Console** and **Apple App Store**.
-- ⚡ Experienced with RESTful APIs, Dio caching, Firebase integration, offline-first caching (Hive/SQLite), and performance profiling.
-- 🎨 Committed to translating Figma/UI designs into responsive, fluid, pixel-perfect interfaces.
+- 🏛️ **Flutter Team Lead & Senior Engineer** with **5+ years** of hands-on experience architecting, scaling, and shipping enterprise-grade cross-platform apps for **iOS and Android**.
+- 🚀 Shipped **15+ commercial applications** across Google Play and Apple App Store spanning E-Commerce, Sports, Fitness, Loyalty & On-Demand services.
+- ⚡ Deep expertise in **Clean Architecture**, **BLoC / Cubit**, **Freezed / Code Generation**, **Dio Caching**, **Offline-First Synchronization (Hive / SQLite)**, and **Multi-Flavor CI/CD**.
+- 🛡️ Maintained a **>99% crash-free session rate** across production deployments through rigorous profiling, Sentry, and Firebase Crashlytics monitoring.
 
 ---
 
 <!-- ═══════════════════════════════════ TECH STACK ════════════════════════════════════ -->
 
-## 🛠️ Tech Stack & Skills
+## 🛠️ Technical Arsenal
 
 <div align="center">
 
-### 📱 Core & Mobile Development
+### 📱 Core & Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -77,22 +79,22 @@ class FlutterDeveloper {
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-4A90D9?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM%20Pattern-0288D1?style=for-the-badge&logoColor=white)
 ![SOLID Principles](https://img.shields.io/badge/SOLID%20Principles-00838F?style=for-the-badge&logoColor=white)
-![Dependency Injection](https://img.shields.io/badge/GetIt%20%26%20Injectable-0097A7?style=for-the-badge&logoColor=white)
+![Freezed](https://img.shields.io/badge/Freezed%20%26%20CodeGen-0097A7?style=for-the-badge&logoColor=white)
+![GetIt](https://img.shields.io/badge/GetIt%20%26%20Injectable-00ACC1?style=for-the-badge&logoColor=white)
 
-### 🌐 Networking & Data Persistence
+### 🌐 Networking, Backend & Data Persistence
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-6DB33F?style=for-the-badge&logoColor=white)
-![Dio](https://img.shields.io/badge/Dio%20Client-0A7EA4?style=for-the-badge&logoColor=white)
-![Hive DB](https://img.shields.io/badge/Hive%20NoSQL-FFC107?style=for-the-badge&logoColor=black)
+![Dio Client](https://img.shields.io/badge/Dio%20Client-0A7EA4?style=for-the-badge&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase%20Suite-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Hive NoSQL](https://img.shields.io/badge/Hive%20NoSQL-FFC107?style=for-the-badge&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-### 🛠️ Developer Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### ⚙️ CI/CD, Quality & Native Integrations
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F2FF?style=for-the-badge&logo=fastlane&logoColor=black)
+![Firebase Crashlytics](https://img.shields.io/badge/Crashlytics%20(%3E99%25)-FFA000?style=for-the-badge&logo=firebase&logoColor=black)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Google Maps & GPS](https://img.shields.io/badge/Google%20Maps%20%26%20GPS-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 ### 🚀 App Publishing
 ![Google Play Console](https://img.shields.io/badge/Google%20Play%20Console-414141?style=for-the-badge&logo=googleplay&logoColor=white)
@@ -102,16 +104,30 @@ class FlutterDeveloper {
 
 ---
 
-<!-- ══════════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
+<!-- ══════════════════════════════════ PUBLISHED PRODUCTION APPS ═════════════════════════ -->
 
-## 🌟 Featured Projects
+## 📱 Published Production Apps (Selection)
+
+| App | Category | Key Highlights & Architecture | Store Links |
+| :--- | :--- | :--- | :---: |
+| 🍕 **La Carapellese** | E-Commerce / Food | Live delivery tracking, digital wallet & loyalty, full multi-language RTL (AR / EN / IT) | **App Store · Google Play** |
+| ⚽ **Hatrick** | Sports & Scouting | Football talent-scouting platform connecting players, scouts & clubs with video challenges | **App Store · Google Play** |
+| 🏋️ **FTTech Pro** | Fitness & Nutrition | Workout & custom nutrition tracker for professional trainers and clients | **App Store · Google Play** |
+| 🎁 **Mazaya** | Loyalty & Deals | QR-code redemption, geolocation-based merchant offers & coupons | **App Store** |
+| 👥 **Grand Community** | Social & Influencers | Dual-application modular architecture serving users and creator network | **App Store · Google Play** |
+
+---
+
+<!-- ══════════════════════════════════ FEATURED OPEN-SOURCE PROJECTS ══════════════════════ -->
+
+## 🌟 Featured Open-Source Projects
 
 | Project | Description | Tech Stack | Repository |
 | :--- | :--- | :--- | :---: |
-| 🎬 **Movies App** | Feature-rich movie browsing app built with Clean Architecture, Dio caching, and state-of-the-art UI | `Flutter` `Clean Architecture` `BLoC` `Dio` | [View Repo ↗](https://github.com/khaledarman22/movies-clean-architecture-) |
-| 📚 **Bookly App** | Modern eBook discovery and reader application following MVVM architecture | `Flutter` `Dart` `MVVM` `REST API` | [View Repo ↗](https://github.com/khaledarman22/bookly-app-mvvm) |
-| 🏷️ **Mazady Auction** | Real-time bidding and auction marketplace application | `Flutter` `BLoC` `Firebase` `Dio` | [View Repo ↗](https://github.com/khaledarman22/mazady) |
-| 🎧 **Podcast & Music** | Streaming audio and podcast player with custom audio playback controls and responsive layout | `Flutter` `Audio Player` `REST API` | [View Repo ↗](https://github.com/khaledarman22/podcast-music) |
+| 🎬 **Movies App** | Feature-rich movie browsing app showcasing Clean Architecture, BLoC, Dio caching, and responsive UI | `Flutter` `Clean Architecture` `BLoC` `Dio` | [View Repo ↗](https://github.com/khaledarman22/movies-clean-architecture-) |
+| 📚 **Bookly App** | Modern eBook discovery and reader application following MVVM architecture and REST integration | `Flutter` `Dart` `MVVM` `REST API` | [View Repo ↗](https://github.com/khaledarman22/bookly-app-mvvm) |
+| 🏷️ **Mazady Auction** | Real-time bidding and auction marketplace application with state management | `Flutter` `BLoC` `Firebase` `Dio` | [View Repo ↗](https://github.com/khaledarman22/mazady) |
+| 🎧 **Podcast & Music** | Streaming audio and podcast player with custom audio playback controls and adaptive layout | `Flutter` `Audio Player` `REST API` | [View Repo ↗](https://github.com/khaledarman22/podcast-music) |
 | 🛒 **MiniMart Store** | Complete e-commerce store with product catalog, cart, and checkout flow | `Flutter` `BLoC` `Dio` `Hive` | [View Repo ↗](https://github.com/khaledarman22/serv5-minimart-assignment) |
 
 ---
@@ -144,13 +160,15 @@ class FlutterDeveloper {
 
 <div align="center">
 
-Available for **Full-time roles**, **Freelance projects**, and **Mobile App Consulting**.
+Open to **Senior / Lead Flutter Roles**, **Remote Opportunities**, and **Mobile App Consulting**.
 
 <br/>
 
 <a href="https://linkedin.com/in/khaled-waleed-a95b70208"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:Khaled.waleed.dev@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://raw.githubusercontent.com/khaledarman22/khaledarman22/main/assets/Khaled_Waleed_Resume.pdf"><img alt="Download Resume / CV" src="https://img.shields.io/badge/Download%20CV%20(PDF)-0175C2?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
 &nbsp;
 <a href="https://twitter.com/khaled_waleed_x"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 &nbsp;
@@ -164,6 +182,6 @@ Available for **Full-time roles**, **Freelance projects**, and **Mobile App Cons
 
 <br/>
 
-💙 **Designed & Built with passion by Khaled Waleed**
+💙 **Crafted with passion by Khaled Waleed — Senior Flutter Engineer & Team Lead**
 
 </div>
