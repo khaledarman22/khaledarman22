@@ -2,7 +2,9 @@
 
 <div align="center">
 
-<img alt="Khaled Waleed — Senior Flutter Developer" src="https://capsule-render.vercel.app/api?type=waving&color=0:0175C2,100:00D8FF&height=220&section=header&text=Khaled%20Waleed&fontColor=ffffff&fontSize=52&fontAlignY=36&animation=fadeIn&desc=Senior%20Flutter%20%26%20Mobile%20App%20Developer&descSize=18&descAlignY=58" width="100%" />
+<img src="./assets/header.svg" alt="Khaled Waleed - Senior Flutter Developer" width="100%" />
+
+<br/><br/>
 
 <a href="https://github.com/khaledarman22">
   <img alt="Khaled Waleed Roles & Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=680&height=45&lines=Senior+Flutter+%26+Mobile+Developer+%F0%9F%92%99;Clean+Architecture+%26+BLoC+Expert;4%2B+Years+Crafting+High-Performance+Apps;Google+Play+%26+App+Store+Publisher;Pixel-Perfect+UI+%26+60%2F120+FPS+Animations;Building+Scalable+%26+Maintainable+Codebases" />
@@ -22,7 +24,7 @@
 
 </div>
 
-<img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:0175C2,100:00D8FF&height=3" width="100%" />
+---
 
 <!-- ══════════════════════════════════════ ABOUT ══════════════════════════════════════ -->
 
@@ -56,7 +58,7 @@ class FlutterDeveloper {
 - ⚡ Experienced with RESTful APIs, Dio caching, Firebase integration, offline-first caching (Hive/SQLite), and performance profiling.
 - 🎨 Committed to translating Figma/UI designs into responsive, fluid, pixel-perfect interfaces.
 
-<img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:0175C2,100:00D8FF&height=3" width="100%" />
+---
 
 <!-- ═══════════════════════════════════ TECH STACK ════════════════════════════════════ -->
 
@@ -98,7 +100,7 @@ class FlutterDeveloper {
 
 </div>
 
-<img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:0175C2,100:00D8FF&height=3" width="100%" />
+---
 
 <!-- ══════════════════════════════════ FEATURED PROJECTS ═══════════════════════════════ -->
 
@@ -112,7 +114,7 @@ class FlutterDeveloper {
 | 🎧 **Podcast & Music** | Streaming audio and podcast player with custom audio playback controls and responsive layout | `Flutter` `Audio Player` `REST API` | [View Repo ↗](https://github.com/khaledarman22/podcast-music) |
 | 🛒 **MiniMart Store** | Complete e-commerce store with product catalog, cart, and checkout flow | `Flutter` `BLoC` `Dio` `Hive` | [View Repo ↗](https://github.com/khaledarman22/serv5-minimart-assignment) |
 
-<img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:0175C2,100:00D8FF&height=3" width="100%" />
+---
 
 <!-- ═════════════════════════════════════ STATS ═══════════════════════════════════════ -->
 
@@ -134,7 +136,7 @@ class FlutterDeveloper {
 
 </div>
 
-<img alt="divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:0175C2,100:00D8FF&height=3" width="100%" />
+---
 
 <!-- ════════════════════════════════════ CONNECT ══════════════════════════════════════ -->
 
@@ -156,17 +158,11 @@ Available for **Full-time roles**, **Freelance projects**, and **Mobile App Cons
 &nbsp;
 <a href="https://www.facebook.com/share/15eqea4tvf/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
-</div>
-
-<!-- ════════════════════════════════════ FOOTER ═══════════════════════════════════════ -->
-
-<div align="center">
-
-<br/>
+<br/><br/>
 
 > *“Quality in a mobile application is not an accident; it is always the result of intelligent effort and clean code.”*
 
-<img alt="footer wave" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D8FF,100:0175C2&height=120&section=footer" width="100%" />
+<br/>
 
 💙 **Designed & Built with passion by Khaled Waleed**
 

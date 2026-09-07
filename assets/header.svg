@@ -1,0 +1,126 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080c14" />
+      <stop offset="50%" stop-color="#0b1329" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <!-- Flutter Blue/Cyan Gradients -->
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="60%" stop-color="#70d6ff" />
+      <stop offset="100%" stop-color="#00D8FF" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0175C2" />
+      <stop offset="50%" stop-color="#02569B" />
+      <stop offset="100%" stop-color="#00D8FF" />
+    </linearGradient>
+
+    <linearGradient id="badgeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#14213d" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9" />
+    </linearGradient>
+
+    <radialGradient id="glowLeft" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#0175C2" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#0175C2" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glowRight" cx="85%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#00D8FF" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#00D8FF" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Filters -->
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00D8FF" flood-opacity="0.25" />
+    </filter>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1e293b" stroke-width="0.75" stroke-opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 54px; letter-spacing: 1px; fill: url(#textGrad); }
+    .subtitle { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 20px; fill: #00D8FF; letter-spacing: 4px; text-transform: uppercase; }
+    .badge-text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 500; font-size: 14px; fill: #e2e8f0; }
+    .quote { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-style: italic; font-size: 15px; fill: #94a3b8; }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="360" rx="16" fill="url(#bgGradient)" />
+  <rect width="1200" height="360" rx="16" fill="url(#grid)" />
+
+  <!-- Ambient Glows -->
+  <circle cx="200" cy="120" r="300" fill="url(#glowLeft)" />
+  <circle cx="1000" cy="240" r="300" fill="url(#glowRight)" />
+
+  <!-- Outer Border -->
+  <rect x="1" y="1" width="1198" height="358" rx="15" fill="none" stroke="#1e293b" stroke-width="1.5" />
+
+  <!-- Decorative Top Wave Accent -->
+  <path d="M 0 16 C 300 16, 400 3, 600 3 C 800 3, 900 16, 1200 16" fill="none" stroke="url(#accentGrad)" stroke-width="3" />
+
+  <!-- Flutter Logo Geometry -->
+  <g transform="translate(90, 85) scale(1.4)" filter="url(#shadow)">
+    <!-- Flutter Top Wing -->
+    <path d="M 50 0 L 0 50 L 15.5 65.5 L 81 0 Z" fill="#47C5FB" />
+    <!-- Flutter Lower Wing Front -->
+    <path d="M 28 78 L 0 106 L 15.5 121.5 L 59 78 Z" fill="#47C5FB" />
+    <!-- Flutter Mid Wing Darker -->
+    <path d="M 59 78 L 43.5 62.5 L 28 78 L 43.5 93.5 Z" fill="#00569e" />
+    <!-- Flutter Lower Wing Back -->
+    <path d="M 43.5 93.5 L 71.5 121.5 L 87 106 L 59 78 Z" fill="#0175C2" />
+  </g>
+
+  <!-- Header Main Content -->
+  <g transform="translate(260, 110)">
+    <!-- Subtitle / Eyebrow -->
+    <text x="0" y="0" class="subtitle">Senior Flutter &amp; Mobile Engineer</text>
+
+    <!-- Main Name Title -->
+    <text x="0" y="52" class="title">Khaled Waleed</text>
+
+    <!-- Quote / Tagline -->
+    <text x="0" y="88" class="quote">“Crafting high-performance, pixel-perfect &amp; scalable mobile experiences”</text>
+  </g>
+
+  <!-- Key Highlight Pills / Badges -->
+  <g transform="translate(90, 260)">
+    <!-- Pill 1: Experience -->
+    <g transform="translate(0, 0)">
+      <rect width="225" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
+      <circle cx="21" cy="21" r="7" fill="#00D8FF" />
+      <text x="38" y="26" class="badge-text">⚡ 4+ Years Experience</text>
+    </g>
+
+    <!-- Pill 2: Architecture -->
+    <g transform="translate(245, 0)">
+      <rect width="275" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
+      <circle cx="21" cy="21" r="7" fill="#00D8FF" />
+      <text x="38" y="26" class="badge-text">🏛️ Clean Architecture &amp; BLoC</text>
+    </g>
+
+    <!-- Pill 3: Stores -->
+    <g transform="translate(540, 0)">
+      <rect width="245" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
+      <circle cx="21" cy="21" r="7" fill="#00D8FF" />
+      <text x="38" y="26" class="badge-text">📱 10+ Apps on App Stores</text>
+    </g>
+
+    <!-- Pill 4: UI/UX -->
+    <g transform="translate(805, 0)">
+      <rect width="215" height="42" rx="21" fill="url(#badgeGrad)" stroke="#0284c7" stroke-width="1" />
+      <circle cx="21" cy="21" r="7" fill="#00D8FF" />
+      <text x="38" y="26" class="badge-text">🚀 60/120 FPS Fluid UI</text>
+    </g>
+  </g>
+
+  <!-- Bottom Glowing Accent Line -->
+  <path d="M 400 358 L 800 358" stroke="url(#accentGrad)" stroke-width="2" stroke-linecap="round" />
+</svg>
