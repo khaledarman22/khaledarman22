@@ -2,12 +2,12 @@
 
 <div align="center">
 
-<img src="./assets/header.svg" alt="Khaled Waleed - Senior Flutter Engineer & Team Lead" width="100%" />
+<img src="./assets/header.svg" alt="Khaled Waleed - Senior Flutter Developer" width="100%" />
 
 <br/><br/>
 
 <a href="https://github.com/khaledarman22">
-  <img alt="Khaled Waleed Roles & Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=680&height=45&lines=Senior+Flutter+Engineer+%26+Team+Lead+%F0%9F%92%99;5%2B+Years+Building+Scalable+Mobile+Apps;15%2B+Production+Apps+on+App+Store+%26+Google+Play;Clean+Architecture+%26+BLoC%2FCubit+Expert;Pixel-Perfect+UI+%26+99%25%2B+Crash-Free+Rate;AI-Assisted+Engineering+%26+CI%2FCD+Pipelines" />
+  <img alt="Khaled Waleed Roles & Skills" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D8FF&center=true&vCenter=true&width=680&height=45&lines=Senior+Flutter+Developer+%F0%9F%92%99;5%2B+Years+Building+Scalable+Mobile+Apps;15%2B+Production+Apps+on+App+Store+%26+Google+Play;Clean+Architecture+%26+BLoC%2FCubit+Expert;Pixel-Perfect+UI+%26+99%25%2B+Crash-Free+Rate;AI-Assisted+Engineering+%26+CI%2FCD+Pipelines" />
 </a>
 
 <p align="center">
@@ -31,9 +31,9 @@
 ## 👨‍💻 About Me
 
 ```dart
-class FlutterLeadEngineer {
+class SeniorFlutterDeveloper {
   final String name = 'Khaled Waleed';
-  final String currentRole = 'Flutter Team Lead & Senior Mobile Engineer';
+  final String currentRole = 'Senior Flutter Developer';
   final int experienceYears = 5;
   final int publishedAppsCount = 15;
   final double crashFreeRate = 99.4; // %
@@ -55,7 +55,7 @@ class FlutterLeadEngineer {
 }
 ```
 
-- 🏛️ **Flutter Team Lead & Senior Engineer** with **5+ years** of hands-on experience architecting, scaling, and shipping enterprise-grade cross-platform apps for **iOS and Android**.
+- 🏛️ **Senior Flutter Developer** with **5+ years** of hands-on experience architecting, scaling, and shipping enterprise-grade cross-platform apps for **iOS and Android**.
 - 🚀 Shipped **15+ commercial applications** across Google Play and Apple App Store spanning E-Commerce, Sports, Fitness, Loyalty & On-Demand services.
 - ⚡ Deep expertise in **Clean Architecture**, **BLoC / Cubit**, **Freezed / Code Generation**, **Dio Caching**, **Offline-First Synchronization (Hive / SQLite)**, and **Multi-Flavor CI/CD**.
 - 🛡️ Maintained a **>99% crash-free session rate** across production deployments through rigorous profiling, Sentry, and Firebase Crashlytics monitoring.
@@ -160,7 +160,7 @@ class FlutterLeadEngineer {
 
 <div align="center">
 
-Open to **Senior / Lead Flutter Roles**, **Remote Opportunities**, and **Mobile App Consulting**.
+Open to **Senior Flutter Developer Roles**, **Remote Opportunities**, and **Mobile App Consulting**.
 
 <br/>
 
@@ -182,6 +182,6 @@ Open to **Senior / Lead Flutter Roles**, **Remote Opportunities**, and **Mobile 
 
 <br/>
 
-💙 **Crafted with passion by Khaled Waleed — Senior Flutter Engineer & Team Lead**
+💙 **Crafted with passion by Khaled Waleed — Senior Flutter Developer**
 
 </div>
